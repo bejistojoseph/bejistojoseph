@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate B.Tech-IT student with a strong interest in programming, artificial intelligence, and machine learning. I have experience in several programming languages, including Python, C, and Java, and I'm constantly expanding my knowledge through courses on platforms like Udemy and LinkedIn Learning.<br><br>My Journey So Far<br>Internship at TANSAM: Gained hands-on experience in AI and Machine Learning, working on real-world projects that challenged and enhanced my skills.<br>Projects:<br>Satellite Data Collection Project: Worked on a project focusing on the collection and analysis of satellite data.<br>Intel Unnati Project: Developed a solution for Pixelated Image Detection & Correction.<br>AI/ML Projects: Completed several AI/ML projects that showcase my ability to apply theoretical knowledge to practical challenges.<br>Skills<br>Programming Languages: Python, C, Java<br>Web Development: HTML, CSS, JavaScript<br>AI/ML Tools: TensorFlow, Keras<br>Version Control: Git, GitHub
+I'm a passionate B.Tech-IT student with a strong interest in programming, artificial intelligence, and machine learning. I have experience in several programming languages, including Python, C, and Java, and I'm constantly expanding my knowledge through courses on platforms like Udemy and LinkedIn Learning.<br><br>  🚀 **My Journey So Far**<br>  💼 **Internship at TANSAM:** Gained hands-on experience in AI and Machine Learning, working on real-world projects that challenged and enhanced my skills.<br> 🔧 **Projects:** <br>Satellite Data Collection Project: Worked on a project focusing on the collection and analysis of satellite data.<br>Intel Unnati Project: Developed a solution for Pixelated Image Detection & Correction.<br>AI/ML Projects: Completed several AI/ML projects that showcase my ability to apply theoretical knowledge to practical challenges.<br> 🛠️ **Skills**<br> **Programming Languages:** Python, C, Java<br> **Web Development:** HTML, CSS, JavaScript<br> **AI/ML Tools:** TensorFlow, Keras<br> **Version Control:** Git, GitHub
 
 
 ## 🌐 Socials:
@@ -12,8 +12,7 @@ I'm a passionate B.Tech-IT student with a strong interest in programming, artifi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bejistojoseph&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bejistojoseph&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bejistojoseph&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bejistojoseph&icon=5&color=3)](https://visitcount.itsvg.in)
